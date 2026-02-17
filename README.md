@@ -19,7 +19,8 @@ Perform exploratory data analysis (EDA) on a dataset using Jupyter, pandas, and 
 - Cloned to local machine
 
 ### Commands Used
-```bash
+
+---
 cd ~/Desktop
 git clone https://github.com/ajerineg-coder/datafun-06-eda.git
 cd datafun-06-eda
