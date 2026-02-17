@@ -18,14 +18,6 @@ Perform exploratory data analysis (EDA) on a dataset using Jupyter, pandas, and 
 - Created GitHub repo: datafun-06-eda
 - Cloned to local machine
 
-### Commands Used
-```bash
-cd ~/Desktop
-git clone https://github.com/ajerineg-coder/datafun-06-eda.git
-cd datafun-06-eda
-
-
-
 ## Dataset Description (CC6.2)
 
 | Item | Description |
@@ -45,3 +37,11 @@ cd datafun-06-eda
 | flipper_length_mm | Flipper length in millimeters |
 | body_mass_g | Body mass in grams |
 | sex | Sex of the penguin |
+
+### Commands Used
+```bash
+cd ~/Desktop
+git clone https://github.com/ajerineg-coder/datafun-06-eda.git
+cd datafun-06-eda
+
+
