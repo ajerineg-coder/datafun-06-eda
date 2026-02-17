@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # datafun-06-eda
 
 Foundations of Data Analytics, Module 6 Custom EDA Project.
@@ -27,3 +28,18 @@ source .venv/bin/activate
 python3 -m pip install --upgrade pip
 python3 -m pip install -r requirements.txt
 # datafun-06-eda
+=======
+# datafun-06-eda# datafun-06-eda
+
+## Project Setup (CC6.1)
+
+### Repo
+- Created GitHub repo: datafun-06-eda
+- Cloned to local machine
+
+### Commands Used
+```bash
+cd ~/Desktop
+git clone https://github.com/ajerineg-coder/datafun-06-eda.git
+cd datafun-06-eda
+>>>>>>> 28c4645 (Add dataset description)
